@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\bin\Debug\net5.0\ArrayClassMethod.exe
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\bin\Debug\net5.0\ArrayClassMethod.deps.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\bin\Debug\net5.0\ArrayClassMethod.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\bin\Debug\net5.0\ArrayClassMethod.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\bin\Debug\net5.0\ArrayClassMethod.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\bin\Debug\net5.0\ref\ArrayClassMethod.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\bin\Debug\net5.0\ArrayClassMethod.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\obj\Debug\net5.0\ArrayClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\obj\Debug\net5.0\ArrayClassMethod.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\obj\Debug\net5.0\ArrayClassMethod.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\obj\Debug\net5.0\ArrayClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\obj\Debug\net5.0\ArrayClassMethod.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\obj\Debug\net5.0\ref\ArrayClassMethod.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\obj\Debug\net5.0\ArrayClassMethod.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\ArrayClassMethod\obj\Debug\net5.0\ArrayClassMethod.genruntimeconfig.cache
